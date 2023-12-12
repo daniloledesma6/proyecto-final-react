@@ -1,0 +1,36 @@
+.titulo {
+    padding-bottom: 40px;
+}
+.botones-final{
+    margin-bottom: 20px;
+}
+.no-hay-cot{
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+section {
+    border: 1px solid white;
+    border-radius: 7px;
+}
+strong, ul, li{
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+strong{
+    margin-right: 10px;
+}
+li{
+    padding: 4px;
+}
+.cot{
+    padding-bottom: 10px;
+}
+.separador-dos{
+    border-bottom: 1px solid white;
+    
+}
+ul{
+    padding: 10px;
+    padding-left: 15px;
+    margin: 0;
+}

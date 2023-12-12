@@ -1,0 +1,42 @@
+[
+    {
+        "categoria": "Tipo",
+        "tipo": "Documental",
+        "factor": 1.09
+    },
+    {
+        "categoria": "Tipo",
+        "tipo": "Pelicula",
+        "factor": 1.05
+    },
+    {
+        "categoria": "Tipo",
+        "tipo": "Blog",
+        "factor": 1.02
+    },
+    {
+        "categoria": "Tipo",
+        "tipo": "Informativo",
+        "factor": 1.19
+    },
+    {
+        "categoria": "Tipo",
+        "tipo": "Oficina",
+        "factor": 2.39
+    },
+    {
+        "categoria": "Plataforma",
+        "tipo": "Youtube",
+        "factor": 1.13
+    },
+    {
+        "categoria": "Plataforma",
+        "tipo": "TikTok",
+        "factor": 1.04
+    },
+    {
+        "categoria": "Plataforma",
+        "tipo": "Instagram",
+        "factor": 1.29
+    }
+]
